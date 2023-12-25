@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Miami",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2023-12-19T08:13:25.186Z",
+      "notes": "It is a nice beach to visit in usa",
+      "position": {
+        "lat": "25.78495518818352",
+        "lng": "-80.14938354492189"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Agastiswaram",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-12-20T12:40:24.981Z",
+      "notes": "It is a good place to visit in india",
+      "position": {
+        "lat": "8.186308539455196",
+        "lng": "77.42958068847658"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Ambodinonoka",
+      "country": "Madagascar",
+      "emoji": "🇲🇬",
+      "date": "2023-12-22T07:51:31.443Z",
+      "notes": "madagasgar",
+      "position": {
+        "lat": "-20.41352963161288",
+        "lng": "47.81250000000001"
+      },
+      "id": 98443202
+    }
+  ]
+}
